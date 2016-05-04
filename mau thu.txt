@@ -1,0 +1,39 @@
+﻿<style type="text/css">.e-box{font-size: 10pt;display:inline-block;width:100%;position:relative;font-family: 'Segoe UI'}.e-row{width:100%; float:left;position:relative;}.e-title{font-size:14pt; text-transform:uppercase;opacity: 0.9;}.e-title-label{font-size:10pt;opacity:0.6;}.e-label{opacity:0.9;}.e-text-content{font-weight:500;}.e-content{font-size: 9pt;line-height: 16px;padding-left:10px; display:list-item}.e-color-red{color:red;}.e-bold{font-weight:bold;}.e-mgt{margin-top:15px;}.e-pdl{padding-left:18px;}.e-signature{font-size:13pt;}
+</style>
+<div class="e-box">
+<div class="e-row e-title">MẪU THƯ TH&Ocirc;NG B&Aacute;O KẾT QUẢ 01</div>
+
+<div class="e-row e-title-label">Thư được thể hiện theo dạng mẫu, chưa điền th&ocirc;ng tin ph&ugrave; hợp</div>
+
+<div class="e-row e-mgt e-text-content">Ch&agrave;o bạn %CandidateName%</div>
+
+<div class="e-row e-text-content">Dựa tr&ecirc;n kết quả đ&atilde; ghi nhận từ hệ thống, ch&uacute;ng t&ocirc;i muốn tr&iacute;ch xuất, v&agrave; đ&iacute;nh k&egrave;m th&agrave;nh t&iacute;ch m&agrave; bạn đạt được trong kỳ thi: %ExamName% - %ExamCode%</div>
+
+<div class="e-row e-mgt e-text-content">Dưới đ&acirc;y l&agrave; th&agrave;nh t&iacute;ch của bạn</div>
+
+<div class="e-row e-pdl">
+<div class="e-row e-content"><span class="e-label">Kỳ thi: </span><span class="e-text-content">%ExamName%</span></div>
+
+<div class="e-row e-content"><span class="e-label">Ng&agrave;y dự thi: </span><span class="e-text-content">%DateExam%</span></div>
+
+<div class="e-row e-content"><span class="e-label">M&atilde; đề thi: </span><span class="e-text-content">%QNRCode%</span></div>
+
+<div class="e-row e-content"><span class="e-label">Tổng số c&acirc;u hỏi: </span><span class="e-text-content">%NumOfQuestions%</span></div>
+
+<div class="e-row e-content"><span class="e-label">Số c&acirc;u trả lời: </span><span class="e-text-content">%NumOfAnswer%</span></div>
+
+<div class="e-row e-content"><span class="e-label">Số c&acirc;u trả lời đ&uacute;ng: </span><span class="e-text-content">%NumOfCorrect%</span></div>
+
+<div class="e-row e-content"><span class="e-label">Điểm số: </span><span class="e-color-red e-bold ">%YourScore%</span></div>
+
+<div class="e-row e-content"><span class="e-label">Thứ hạng: </span><span class="e-text-content e-color-red">%YourGrade%</span></div>
+
+<div class="e-row e-content"><span class="e-label">Kết quả sau c&ugrave;ng: </span><span class="e-text-content e-color-red">%YourResult%</span></div>
+</div>
+
+<div class="e-row e-mgt e-text-content">Nếu bạn c&oacute; bất kỳ vấn đề g&igrave; li&ecirc;n quan đến kết quả của bạn, đừng ngần ngại v&agrave; li&ecirc;n hệ trực tiếp với hệ thống, để c&oacute; những giải đ&aacute;p thỏa đ&aacute;ng.</div>
+
+<div class="e-row e-mgt e-text-content">Tr&acirc;n trọng</div>
+
+<div class="e-row e-text-content e-signature">sureLRN</div>
+</div>
